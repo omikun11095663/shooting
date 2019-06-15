@@ -5,14 +5,14 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: tankP_blinn1
-    2100002: tankP_blinn2
-    2100004: tankP2_blinn2
+    2100000: new_Tank_new_Tank_tankP_blinn1
+    2100002: new_Tank_new_Tank_tankP_blinn2
+    2100004: new_Tank_new_Tank_tankP2_blinn2
     2100006: lambert1
-    2100008: tankP3_blinn2
+    2100008: new_Tank_new_Tank_tankP3_blinn2
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Houtou
+    4300000: new_Tank:new_Tank:Houtou
   externalObjects: {}
   materials:
     importMaterials: 1

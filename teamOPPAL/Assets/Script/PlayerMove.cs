@@ -6,6 +6,9 @@ public class PlayerMove : MonoBehaviour
 {
     public float x;
     public float z;
+    public Vector3 direction;
+    public float speed;
+
     // Start is called before the first frame update
     void Start()
     {
